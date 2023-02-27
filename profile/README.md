@@ -38,3 +38,11 @@ We appreciate your interest in contributing to the development of BetterBot. As 
 However, we're always looking for ways to improve our product and welcome any feedback you may have. If you have ideas or suggestions on how we can make BetterBot better, please don't hesitate to contact us at support@betterbot.com.
 
 Thank you for your understanding, and we hope to continue delivering a high-quality product to our users.
+
+## License
+
+BetterBot is proprietary software owned by our private company, and is not open source. Unauthorized reproduction, modification, distribution, or other forms of unauthorized use of the software may be a violation of applicable laws and could result in legal action.
+
+If you have any questions or concerns about the use of BetterBot, please contact us at support@betterbot.com.
+
+Thank you for your understanding.
