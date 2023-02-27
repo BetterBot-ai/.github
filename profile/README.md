@@ -30,3 +30,11 @@ To get started with BetterBot, you will need to sign up for an account on our we
 ## Support
 
 If you have any questions or issues with BetterBot, our support team is available to help. You can contact us through our website or via email at support@betterbot.com.
+
+## Contributing
+
+We appreciate your interest in contributing to the development of BetterBot. As a private company, we are not currently accepting external contributions to our codebase.
+
+However, we're always looking for ways to improve our product and welcome any feedback you may have. If you have ideas or suggestions on how we can make BetterBot better, please don't hesitate to contact us at support@betterbot.com.
+
+Thank you for your understanding, and we hope to continue delivering a high-quality product to our users.
