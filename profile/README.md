@@ -1,14 +1,23 @@
 # BetterBot
 
-BetterBot is a chatbot application designed to improve the customer service experience for businesses. It can be easily integrated into any website or messaging platform, providing users with quick and efficient support.
+BetterBot is a chatbot platform designed to improve the customer leasing experience for businesses. It can be easily integrated into any website or messaging platform, providing users with quick and efficient support.
 
 ## Features
 
 Some of the key features of BetterBot include:
-
+- 24/7 Prospect Engagement
+- Fully Customizable
+- Effortless Onboarding, from start to launch, our bots come fully trained and ready to go in 3 days or less.
+- Improved Lead Quality
+- Multi-Lingual
+- Countless Integrations, connect to any marketing solution, PMS, CRM and any aspect of your tech stack.
+- Intelligent Appointment Types, help prospects schedule appointments based on what the community has available. 
+- Integrated with All Major Calendars
+- Omni-Channel Marketing, add your bot to Google My Business, Yelp, Facebook, Instagram, Twitter, YouTube, Anywhere in the online digital landscape
+- Virtual Tours & Videos, embed your virtual tours from Matterport, LCP360, Zillow, Vimeo, Helix, Realync, YouTube and more
+- Fully Embedded Photo Galleries, stop sending prospects away from the conversation just to peak at the pool
+- Self-Guided Tour Integrations, partnerships with Tour24, Rently, PowerPro, SmartRent, and more!
 - Natural Language Processing (NLP) technology that enables users to interact with the bot in a conversational manner
-- Integration with multiple messaging platforms, including Facebook Messenger and Slack
-- Customizable responses that can be tailored to specific business needs
 - Detailed analytics and reporting that provide insights into user interactions and customer sentiment
 ## Getting Started
 
