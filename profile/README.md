@@ -41,7 +41,7 @@ Thank you for your understanding, and we hope to continue delivering a high-qual
 
 ## License
 
-BetterBot is proprietary software owned by our private company, and is not open source. Unauthorized reproduction, modification, distribution, or other forms of unauthorized use of the software may be a violation of applicable laws and could result in legal action.
+BetterBot is proprietary software owned by BetterBot, Inc. and is not open source. Unauthorized reproduction, modification, distribution, or other forms of unauthorized use of the software may be a violation of applicable laws and could result in legal action.
 
 If you have any questions or concerns about the use of BetterBot, please contact us at support@betterbot.com.
 
